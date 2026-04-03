@@ -1,4 +1,4 @@
-# 📄 RAG Resume Chatbot
+# 📄 RAG Chatbot
 
 A local chatbot to answer questions from uploaded PDF resumes using RAG, LangChain, and Mistral LLM (via Ollama).
 
