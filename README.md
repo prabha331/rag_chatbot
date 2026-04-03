@@ -1,9 +1,9 @@
 # 📄 RAG Chatbot
 
-A local chatbot to answer questions from uploaded PDF resumes using RAG, LangChain, and Mistral LLM (via Ollama).
+A local chatbot to answer questions from uploaded PDF using RAG, LangChain, and Mistral LLM (via Ollama).
 
 ## 🚀 Features
-- Upload multiple PDF resumes
+- Upload multiple PDF 
 - Ask questions like “Who knows Python?”
 - Answers generated from actual resume data
 - Fully offline – no OpenAI key required
