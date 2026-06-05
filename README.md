@@ -4,7 +4,7 @@ A local chatbot to answer questions from uploaded PDF using RAG, LangChain, and 
 
 ## 🚀 Features
 - Upload multiple PDF 
-- Ask questions like “Who knows Python?”
+- Ask questions like “What is the difference between Python and java?”
 - Answers generated from actual resume data
 - Fully offline – no OpenAI key required
 
